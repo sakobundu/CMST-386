@@ -570,9 +570,10 @@ const d = new Date();
 document.getElementById("demo").innerHTML = d;
 </script>
 <a href="/Project4/privacy.html">Privacy Policy</a>
-    </div>
+    
     <div class="footer">
   <p> Split Studios DMV, 2021 ©.</p>
+  </div>
 </body>
 </html>
 
