@@ -561,9 +561,7 @@ word-break: break-word !important;
     </style>
       </div>
       <div style="color: #595959;font-size: 14px;font-family: Arial;padding-top:16px;">This privacy policy was created using Termly's <a style="color: rgb(48, 48, 241) !important;" href="https://termly.io/products/privacy-policy-generator/?ftseo">Privacy Policy Generator</a>.</div>
-      
-<div class="footer">
-  <p> Split Studios DMV, 2021 ©.</p>
+     
 
     <p id="demo"></p>
 
@@ -573,6 +571,8 @@ document.getElementById("demo").innerHTML = d;
 </script>
 <a href="/Project4/privacy.html">Privacy Policy</a>
     </div>
+    <div class="footer">
+  <p> Split Studios DMV, 2021 ©.</p>
 </body>
 </html>
 
